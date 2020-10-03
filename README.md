@@ -1,6 +1,6 @@
-# notes-sharing
+# Notes-sharing
 
-A simple notes-sharing application.
+A simple Notes-sharing application.
 
 # Instructions to set up locally
 
@@ -11,4 +11,4 @@ A simple notes-sharing application.
 The following image would make it clearer. ![image](/2.jpeg)
 
 
-After this, you can open the web app in your browser(localhost) which would look something like this. ![image](/1.jpeg).
+After this, you can open the web app in your browser (localhost) which would look something like this. ![image](/1.jpeg).
